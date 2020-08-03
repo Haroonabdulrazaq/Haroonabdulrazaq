@@ -14,8 +14,8 @@ I am Haroon Abdulrazaq, a software Engineer who loves solving real-life problem 
 - 👯 I’m looking to collaborate on ...project that affect lives directly or indirectly
 - 🤔 I’m looking for help with ...any project that is challenging :blush: and improves my skills
 - 💬 Ask me about ... Software Development and I'll be glad to answer you
-- 📫 How to reach me: ... Gmail: [@Haroonabdulrazaq](Haroonabdulrazaq@gmai.com)
- Twitter: [@Hanq_o](https://twitter.com/Hanq_o)
- Linkedin: [Haroonabdulrazaq](https://www.linkedin.com/in/haroon-abdulrazaq-817906100/)
+- 📫 How to reach me: ...[Gmail](Haroonabdulrazaq@gmai.com)
+[Twitter](https://twitter.com/Hanq_o)
+[LinkedIn](https://www.linkedin.com/in/haroon-abdulrazaq-817906100/)
 - 😄 Pronouns: ...me/he/him :joy:
 - ⚡ Fun fact: ...Do you know that, 29th of May is officially “Put a Pillow on Your Fridge Day” :joy:
