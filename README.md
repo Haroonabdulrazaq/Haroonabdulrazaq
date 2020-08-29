@@ -16,6 +16,6 @@ I am Haroon Abdulrazaq, a software Engineer who loves solving real-life problem 
 - 💬 Ask me about ... Software Development and I'll be glad to answer you
 - 📫 How to reach me: ...[Gmail](Haroonabdulrazaq@gmai.com)
 [Twitter](https://twitter.com/Hanq_o)
-[LinkedIn](https://www.linkedin.com/in/haroon-abdulrazaq-817906100/)
+[LinkedIn](https://www.linkedin.com/in/haroonabdulrazaq/)
 - 😄 Pronouns: ...me/he/him :joy:
 - ⚡ Fun fact: ...Do you know that, 29th of May is officially “Put a Pillow on Your Fridge Day” :joy:
