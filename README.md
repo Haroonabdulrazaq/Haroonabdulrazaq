@@ -14,6 +14,7 @@ Soft Skills: Effective Communication, Team player, Time Management, Organization
 
 [![Haroon Abdulrazaq's github stats](https://github-readme-stats.vercel.app/api?username=Haroonabdulrazaq&show_icons=true)](https://github.com/Haroonabdulrazaq/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonabdulrazaq&show_icons=true&layout=compact)](https://github.com/Haroonabdulrazaq/github-readme-stats)
 
+[![Abdulrazaq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haroonabdulrazaq)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: ...[Gmail](Haroonabdulrazaq@gmai.com)
 [Twitter](https://twitter.com/Hanq_o)
